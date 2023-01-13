@@ -1,7 +1,7 @@
 package com.github.grizzlt.hypixelstatsoverlay.events;
 
-import com.github.grizzlt.hypixelpublicapi.HypixelPublicAPIModApi;
-import com.github.grizzlt.hypixelpublicapi.event.OnHpPublicAPIReadyEvent;
+import com.github.grizzlt.hypixelapimod.HypixelPublicAPIModApi;
+import com.github.grizzlt.hypixelapimod.event.OnHpPublicAPIReadyEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import org.jetbrains.annotations.Nullable;
 

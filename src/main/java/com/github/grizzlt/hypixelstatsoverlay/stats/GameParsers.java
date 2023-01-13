@@ -1,6 +1,6 @@
 package com.github.grizzlt.hypixelstatsoverlay.stats;
 
-import com.github.grizzlt.hypixelpublicapi.error.PublicAPIKeyMissingException;
+import com.github.grizzlt.hypixelapimod.error.PublicAPIKeyMissingException;
 import com.github.grizzlt.hypixelstatsoverlay.HypixelStatsOverlayMod;
 import com.github.grizzlt.hypixelstatsoverlay.stats.bedwars.BedwarsParser;
 import net.hypixel.api.data.type.GameType;

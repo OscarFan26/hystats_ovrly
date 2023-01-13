@@ -1,6 +1,6 @@
 package com.github.grizzlt.hypixelstatsoverlay;
 
-import com.github.grizzlt.hypixelpublicapi.HypixelPublicAPIModApi;
+import com.github.grizzlt.hypixelapimod.apii;
 import com.github.grizzlt.hypixelstatsoverlay.commands.PartyInspectCommand;
 import com.github.grizzlt.hypixelstatsoverlay.commands.PartyResetCommand;
 import com.github.grizzlt.hypixelstatsoverlay.events.HypixelAPIReceiver;
