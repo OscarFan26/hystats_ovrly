@@ -1,4 +1,8 @@
-# Hypixel Stats Overlay Mod (Forge 1.8.9) [![](https://jitpack.io/v/GrizzlT/HypixelStatsOverlayMod.svg)](https://github.com/GrizzlT/HypixelStatsOverlayMod/releases)
+# --Version Packed BY oscarfan          Oscarfan重新组织版本--
+# --详情请见原仓库的Issue第2个--
+
+
+## Hypixel Stats Overlay Mod (Forge 1.8.9) [![](https://jitpack.io/v/GrizzlT/HypixelStatsOverlayMod.svg)](https://github.com/GrizzlT/HypixelStatsOverlayMod/releases)
 This is a forge mod to show player statistics in game!
 
 ## Getting Started
@@ -21,4 +25,4 @@ More expansion coming soon!
 
 For live updates: visit this mod's [trello board](https://trello.com/b/K2q80g1o).
 
-> Written with [StackEdit](https://stackedit.io/).
+> Written with Nothing [vscode](code.visualstudio.com)
